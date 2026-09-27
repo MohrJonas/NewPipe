@@ -31,6 +31,7 @@ object ServiceHelper {
             2 -> R.drawable.ic_placeholder_media_ccc
             3 -> R.drawable.ic_placeholder_peertube
             4 -> R.drawable.ic_placeholder_bandcamp
+            5 -> R.drawable.ic_placeholder_twitch
             else -> R.drawable.ic_circle
         }
     }
